@@ -10,5 +10,5 @@ packaging
 git+https://github.com/huggingface/transformers.git
 onnxruntime-gpu
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.5.0+cu101
+torch==2.8.0
 torchvision==0.6.0+cu101
